@@ -7,6 +7,7 @@ Trample the eagle and the doragon and the bear
 * Augustus Pablo  
 Raggamuffin dub  
 Eastman dub(2018)  
+Blowing with the wind
 
 * Black slate  
 Ogima
@@ -66,7 +67,7 @@ Tommy Mccoom
 * U ROY  
 Crucial cuts
 
-* VA  
+* V.A.  
 Ja son invasion  
 This is Jamaica ska  
 African roots act1  
