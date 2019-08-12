@@ -14,6 +14,8 @@ Blowing with the wind
 * Black slate  
 Ogima
 
+* Bunny Wailer  
+
 * Don Drummond  
 the best of Don Drummond
 
