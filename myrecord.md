@@ -87,5 +87,11 @@ Java
 * Bunny Wailer  
 Blackheart Man
 
+* Lee "Scratch" Perry  
+Cutting Razor: Rare Cuts From the Black Ark
+
+* Sister Love  
+Love Comes Love Goes
+
 * U ROY  
 Dread In A Babylon
