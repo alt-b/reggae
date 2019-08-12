@@ -37,6 +37,8 @@ Hot blood
 In london  
 The keyboard king at studio one  
 
+* Lee "Scratch" Perry  
+
 * Nik trop  
 Reminiscence
 
