@@ -1,23 +1,29 @@
 # レコードまとめ
 
 ### アーティスト一覧
-*  Alpha & omega  
+* Alpha & omega  
 Trample the eagle and the doragon and the bear  
 
-*  Augustus Pablo  
+* Augustus Pablo  
 Raggamuffin dub  
-Eastman dub 2018  
+Eastman dub(2018)  
 
-*  Black slate  
+* Black slate  
 Ogima
 
-*  Hugh Mindel  
+* Don Drummond  
+the best of Don Drummond
+
+* Gladstone anderson and the Mudies all stars  
+glady unlimited
+
+* Hugh Mindel  
 Time and place
 
-*  Jackie Mittoo  
-Reggae magic! 1972  
+* Jackie Mittoo  
+Reggae magic!(1972)  
 Keyboard king  
-Evening time 1967  
+Evening time(1967)  
 Money marker  
 Now  
 Show case volume3  
@@ -26,33 +32,43 @@ Hot blood
 In london  
 The keyboard king at studio one  
 
-*  Nik trop  
+* Nik trop  
 Reminiscence
 
-*  Ojah  
+* Ojah  
 On my mind
 
-*  Roland Alphonso  
+* Rico & the rudies  
+blow your horn
+
+* Roland Alphonso  
 ABC rocksteady  
 Best of Roland Alphonso
 
-*  Skatalites  
-Skatalites & friends at Randy’s
+* Skatalites  
+Skatalites & friends at Randy’s  
+Ska authentic
 
-*  Third world  
+* Third world  
 Journey to Addis
 
-*  Tommy Mccoom & The Agrovators  
-King tubby meets the agrovators at dub station
+* Tommy Mccoom & The Agrovators  
+King tubby meets the agrovators at dub station  
+Super star
+Cookin'
 
-*  Tommy Mccoom & the super sonic  
+* Tommy Mccoom & the super sonic  
 Top secret
 
-*  U ROY  
+* Tommy Mccoom  
+Tommy Mccoom
+
+* U ROY  
 Crucial cuts
 
-*  VA  
+* VA  
 Ja son invasion  
 This is Jamaica ska  
 African roots act1  
-Reggae goodies vol.1
+Reggae goodies vol.1  
+Java
