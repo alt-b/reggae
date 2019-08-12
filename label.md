@@ -1,7 +1,5 @@
 # レーベルまとめ
 
-### Ariwa
-
 ### Studio One
 
 ### Wackies
