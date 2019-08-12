@@ -89,11 +89,6 @@ Java
 * Bunny Wailer  
 Blackheart Man
 
-* Bob Marley & The Wailers  
-Burnin'  
-Catch A Fire  
-Exodus
-
 * Lee "Scratch" Perry  
 Cutting Razor: Rare Cuts From the Black Ark
 
@@ -106,5 +101,4 @@ Love Comes Love Goes
 * U ROY  
 Dread In A Babylon
 
-* V.A.
-Relaxin' With Lovers Volume 3 / Studio 16 Lovers Rock Collections  
+* 
