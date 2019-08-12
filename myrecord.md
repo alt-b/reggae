@@ -1,7 +1,9 @@
-# レコードまとめ
+# 所有音源まとめ
 
-### アーティスト一覧
-* Alpha & Oomega  
+### レコード一覧  
+アーティスト順
+
+* Alpha & Omega  
 Trample the eagle and the doragon and the bear  
 
 * Augustus Pablo  
@@ -76,3 +78,9 @@ This is Jamaica ska
 African roots act1  
 Reggae goodies vol.1  
 Java
+
+### CD一覧
+アーティスト順
+
+* Bunny Wailer  
+Blackheart Man
