@@ -1,7 +1,7 @@
 # レコードまとめ
 
 ### アーティスト一覧
-* Alpha & omega  
+* Alpha & Oomega  
 Trample the eagle and the doragon and the bear  
 
 * Augustus Pablo  
