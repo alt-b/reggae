@@ -13,5 +13,8 @@
 
 ### Studio One
 
+### Tappa  
+* Prince Alla
+
 ### Wackies
 * Horace Anddy
