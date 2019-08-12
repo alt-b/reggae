@@ -66,7 +66,7 @@ Tommy Mccoom
 * U ROY  
 Crucial cuts
 
-* VA  
+* V.A.  
 Ja son invasion  
 This is Jamaica ska  
 African roots act1  
