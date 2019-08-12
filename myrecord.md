@@ -39,6 +39,9 @@ The keyboard king at studio one
 
 * Lee "Scratch" Perry  
 
+* Matumbi  
+the best of Matumbi
+
 * Nik trop  
 Reminiscence
 
@@ -83,7 +86,7 @@ African roots act1
 Reggae goodies vol.1  
 Java
 
-* 
+*
 
 ### CD一覧
 アーティスト順
