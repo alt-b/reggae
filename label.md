@@ -10,6 +10,9 @@
 * Jah Shaka  
 * Disciples
 
+### Joe Gibbs
+* Professionals  
+
 ### Prince Buster  
 * Prince Buster
 
