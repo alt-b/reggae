@@ -3,6 +3,12 @@
 ### レコード一覧  
 アーティスト順
 
+* Al campbell
+The Al campbell collection
+
+* Alton ellis
+The best of Alton ellis
+
 * Alpha & Omega  
 Trample the eagle and the doragon and the bear  
 
@@ -36,6 +42,10 @@ In cold  blood
 Hot blood  
 In london  
 The keyboard king at studio one  
+
+* Jonnie clarke  
+Dread natty congo  
+Authorized version
 
 * Lee "Scratch" Perry  
 
