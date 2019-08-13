@@ -6,6 +6,9 @@
 * Revolutionaries  
 * Sly & Robbie
 
+### mpact
+* Augustus Pablo
+
 ### Jah Shaka
 * Jah Shaka  
 * Disciples
