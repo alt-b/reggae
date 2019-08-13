@@ -3,10 +3,10 @@
 ### レコード一覧  
 アーティスト順
 
-* Al campbell
+* Al campbell  
 The Al campbell collection
 
-* Alton ellis
+* Alton ellis  
 The best of Alton ellis
 
 * Alpha & Omega  
