@@ -30,4 +30,11 @@
 * Tommy McCook
 
 ### Wackies
-* Horace Anddy
+* Horace Anddy  
+* Jah Batta  
+* Jezzreel  
+* Junior Delahaye  
+* Love Joys  
+* Milton Henry  
+* Sugar Minott  
+* Wayne Jarrett
