@@ -16,5 +16,8 @@
 ### Tappa  
 * Prince Alla
 
+### Treasure Isle
+* Tommy McCook
+
 ### Wackies
 * Horace Anddy
