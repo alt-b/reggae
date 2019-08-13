@@ -6,7 +6,7 @@
 * Revolutionaries  
 * Sly & Robbie
 
-### mpact
+### impact
 * Augustus Pablo
 
 ### Jah Shaka
