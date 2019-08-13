@@ -115,7 +115,7 @@ Burnin'
 Catch A Fire  
 Exodus
 
-* Dennis Bovell
+* Dennis Bovell  
 The British Core Lovers
 
 * Lee "Scratch" Perry  
@@ -124,7 +124,7 @@ Cutting Razor: Rare Cuts From the Black Ark
 * Mute Beat  
 LIVE【Remastered】
 
-* Third World
+* Third World  
 96° In The Shade
 
 * Tradition  
