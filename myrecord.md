@@ -107,6 +107,10 @@ Java
 ### CD一覧
 アーティスト順
 
+* Aswad  
+New Chapter Of Dub
+
+
 * Bunny Wailer  
 Blackheart Man
 
@@ -129,6 +133,9 @@ LIVE【Remastered】
 
 * Tradition  
 Captain Ganja And The Space Patrol +1
+
+* Singers & Players  
+Staggering Heights
 
 * Sister Love  
 Love Comes Love Goes
