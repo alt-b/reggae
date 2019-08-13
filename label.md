@@ -2,9 +2,16 @@
 
 ### Ariwa
 
+### Channel One
+* Revolutionaries  
+* Sly & Robbie
+
 ### Jah Shaka
 * Jah Shaka  
 * Disciples
+
+### Prince Buster  
+* Prince Buster
 
 ### Rocker
 * Augustus Pablo  
@@ -15,6 +22,9 @@
 
 ### Tappa  
 * Prince Alla
+
+### Treasure Isle
+* Tommy McCook
 
 ### Wackies
 * Horace Anddy
