@@ -6,6 +6,9 @@
 * Jah Shaka  
 * Disciples
 
+### Prince Buster  
+* Prince Buster
+
 ### Rocker
 * Augustus Pablo  
 * Hugh Mundell  
