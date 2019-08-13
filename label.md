@@ -19,6 +19,9 @@
 * Jacob Miller
 
 ### Studio One
+* Alton Ellis  
+* Heptones  
+* Jackie Mittoo
 
 ### Tappa  
 * Prince Alla
