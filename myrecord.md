@@ -74,7 +74,7 @@ Skatalites & friends at Randy’s
 Ska authentic
 
 * Third world  
-Journey to Addis
+Journey to Addis  
 
 * Tommy Mccoom & The Agrovators  
 King tubby meets the agrovators at dub station  
@@ -107,6 +107,9 @@ Java
 ### CD一覧
 アーティスト順
 
+* Alpha & Omega  
+Sound System Dub
+
 * Aswad  
 New Chapter Of Dub
 
@@ -120,10 +123,17 @@ Catch A Fire
 Exodus
 
 * Dennis Bovell  
+I Wah Dub  
 The British Core Lovers
+
+* Dry & Heavy  
+FULL CONTACT  
 
 * Lee "Scratch" Perry  
 Cutting Razor: Rare Cuts From the Black Ark
+
+* Little Tempo  
+Kedaco Sounds  
 
 * Mute Beat  
 Still Echo  
@@ -143,6 +153,9 @@ Staggering Heights
 
 * Sister Love  
 Love Comes Love Goes
+
+* The Skatalites  
+Hip-Bop Ska
 
 * U ROY  
 Dread In A Babylon
