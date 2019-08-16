@@ -107,12 +107,20 @@ Java
 ### CD一覧
 アーティスト順
 
+* African Head Charge  
+Vision Of A Psychedelic Africa [Bonus Track]
+
 * Alpha & Omega  
 Sound System Dub
+
+* Althea & Donna  
+Uptown Top Ranking  
 
 * Aswad  
 New Chapter Of Dub
 
+* Black Uhuru  
+Red
 
 * Bunny Wailer  
 Blackheart Man
@@ -121,6 +129,9 @@ Blackheart Man
 Burnin'  
 Catch A Fire  
 Exodus
+
+* Creation Rebel  
+Rebel Vibrations
 
 * Dennis Bovell  
 I Wah Dub  
@@ -135,15 +146,20 @@ Cutting Razor: Rare Cuts From the Black Ark
 * Little Tempo  
 Kedaco Sounds  
 
-* Mute Beat  
+* Mute Beat
+Lover's Rock   
 Still Echo  
 LIVE【Remastered】
 
 * Phyllis Dillon  
 One Life To Live  
 
+* Prince Douglas  
+Dub Roots
+
 * Third World  
-96° In The Shade
+96° In The Shade  
+You've Got The Power
 
 * Tradition  
 Captain Ganja And The Space Patrol +1
@@ -155,10 +171,17 @@ Staggering Heights
 Love Comes Love Goes
 
 * The Skatalites  
-Hip-Bop Ska
+Hip-Bop Ska  
+The Authentic Sound of Tommy Mccook  
 
 * U ROY  
+Jah Son Of Africa  
 Dread In A Babylon
 
+* Zion Train  
+Zion Train: Siren
+
 * V.A.  
+DC Dub Connection  
 Relaxin' With Lovers Volume 3 / Studio 16 Lovers Rock Collections  
+RELAXIN' WITH JAPANESE LOVERS VOLUME 6 ～WE LOVE JAPANESE LOVERS MORE THAN EVER COLLECTIONS～
