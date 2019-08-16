@@ -131,7 +131,8 @@ Catch A Fire
 Exodus
 
 * Creation Rebel  
-Rebel Vibrations
+Rebel Vibrations  
+Starship Africa  
 
 * Dennis Bovell  
 I Wah Dub  
@@ -139,6 +140,15 @@ The British Core Lovers
 
 * Dry & Heavy  
 FULL CONTACT  
+
+* Gregory Isaacs  
+Soon Forward
+
+* Jackie Mittoo  
+Drum Song
+
+* Joe Gibbs & The Professionals  
+State Of Emergency
 
 * Lee "Scratch" Perry  
 Cutting Razor: Rare Cuts From the Black Ark
@@ -157,18 +167,27 @@ One Life To Live
 * Prince Douglas  
 Dub Roots
 
-* Third World  
-96° In The Shade  
-You've Got The Power
+* Rico Rodigues
+Warrika Dub  
 
-* Tradition  
-Captain Ganja And The Space Patrol +1
+* Scientist  
+Scientist Rids The World Of The Evil Curse Of The Vampires
 
 * Singers & Players  
 Staggering Heights
 
 * Sister Love  
 Love Comes Love Goes
+
+* Steel Pulse  
+Handsworth Revolution
+
+* Third World  
+96° In The Shade  
+You've Got The Power
+
+* Tradition  
+Captain Ganja And The Space Patrol +1
 
 * The Skatalites  
 Hip-Bop Ska  
@@ -183,5 +202,6 @@ Zion Train: Siren
 
 * V.A.  
 DC Dub Connection  
+Countryman  
 Relaxin' With Lovers Volume 3 / Studio 16 Lovers Rock Collections  
 RELAXIN' WITH JAPANESE LOVERS VOLUME 6 ～WE LOVE JAPANESE LOVERS MORE THAN EVER COLLECTIONS～
