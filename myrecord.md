@@ -134,6 +134,9 @@ Exodus
 Rebel Vibrations  
 Starship Africa  
 
+* Cornell Campbell  
+Sweet Dancehall Collection
+
 * Dennis Bovell  
 I Wah Dub  
 The British Core Lovers
@@ -147,8 +150,15 @@ Soon Forward
 * Jackie Mittoo  
 Drum Song
 
+* Jah Shaka  
+In the Ghetto
+
 * Joe Gibbs & The Professionals  
-State Of Emergency
+State Of Emergency  
+African Dub All-Mighty Chapter 4
+
+* Kiddus I  
+Kiddus I Meets Reggaelation Independance
 
 * Lee "Scratch" Perry  
 Cutting Razor: Rare Cuts From the Black Ark
@@ -156,10 +166,18 @@ Cutting Razor: Rare Cuts From the Black Ark
 * Little Tempo  
 Kedaco Sounds  
 
+* Love Joys  
+Reggae Vibes
+
 * Mute Beat
 Lover's Rock   
 Still Echo  
-LIVE【Remastered】
+LIVE【Remastered】  
+Dub Wise  
+March
+
+* Peter Tosh  
+Legalize It
 
 * Phyllis Dillon  
 One Life To Live  
@@ -173,11 +191,19 @@ Warrika Dub
 * Scientist  
 Scientist Rids The World Of The Evil Curse Of The Vampires
 
+* Sherwood & Pinch  
+Late Night Endless
+
 * Singers & Players  
-Staggering Heights
+Staggering Heights  
+Revenge Of The Underdog  
+War Of Words
 
 * Sister Love  
 Love Comes Love Goes
+
+* Ska Flames  
+Wail'n Skal'm
 
 * Steel Pulse  
 Handsworth Revolution
