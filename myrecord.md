@@ -116,19 +116,31 @@ Sound System Dub
 * Althea & Donna  
 Uptown Top Ranking  
 
+* audio active  
+Back To The Stoned Age
+
+* Augustus Pablo  
+Dub, Reggae and Roots from the Melodica King  
+East Of The River Nile
+
 * Aswad  
 New Chapter Of Dub
 
 * Black Uhuru  
 Red
 
-* Bunny Wailer  
-Blackheart Man
-
 * Bob Marley & The Wailers  
 Burnin'  
 Catch A Fire  
-Exodus
+Exodus  
+Live!
+
+* Bunny Wailer  
+Blackheart Man  
+Bunny Wailer Sings The Wailers
+
+* Burning Spear  
+Dry & Heavy + Man In The Hills
 
 * Creation Rebel  
 Rebel Vibrations  
@@ -141,6 +153,9 @@ Sweet Dancehall Collection
 I Wah Dub  
 The British Core Lovers
 
+* DETERMINATIONS  
+Rock A Shacka Vol.1 -Prince Buster With Determinations Live In Japan
+
 * Dry & Heavy  
 FULL CONTACT  
 
@@ -152,6 +167,9 @@ Drum Song
 
 * Jah Shaka  
 In the Ghetto
+
+* Jimmy Cliff  
+Best Of Jimmy Cliff
 
 * Joe Gibbs & The Professionals  
 State Of Emergency  
@@ -168,6 +186,9 @@ Kedaco Sounds
 
 * Love Joys  
 Reggae Vibes
+
+* Mad Professor  
+Dub Me Crazy!!
 
 * Mute Beat
 Lover's Rock   
@@ -208,12 +229,16 @@ Wail'n Skal'm
 * Steel Pulse  
 Handsworth Revolution
 
+* Sublime With Rome  
+Sirens
+
 * Third World  
 96° In The Shade  
 You've Got The Power
 
 * Tradition  
-Captain Ganja And The Space Patrol +1
+Captain Ganja And The Space Patrol +1  
+Alternative Routes
 
 * The Skatalites  
 Hip-Bop Ska  
