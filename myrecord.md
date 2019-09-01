@@ -40,6 +40,10 @@ glady unlimited
 * Hugh Mindel  
 Time and place
 
+* Horace Andy  
+Dance Hall Style  
+  <img src="" width="200px">
+
 * Jackie Mittoo  
 Reggae magic!(1972)  
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Reggae%20magic!.jpg" width="200px">  
@@ -62,6 +66,10 @@ Authorized version
 
 * Lee "Scratch" Perry  
 
+* Love Joys  
+Lovers Rock Reggae Style: Love Joys Show Case (1982)  
+  <img src="" width="200px">
+
 * Matumbi  
 the best of Matumbi
 
@@ -80,6 +88,10 @@ blow your horn
 ABC rocksteady  
 Best of Roland Alphonso  
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Best%20of%20Roland%20Alphonso.jpg" width="200px">
+
+* Roots Underground  
+Tribesman Assault  
+  <img src="" width="200px">
 
 * Skatalites  
 Skatalites & friends at Randy’s  
@@ -109,14 +121,24 @@ SAVE THE WORLD
 * U ROY  
 Crucial cuts
 
+* Wackie's  
+African roots act1  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/African%20roots%20act1.jpg" width="200px">  
+African Roots Act 3  
+  <img src="" width="200px">  
+Creation Dub  
+  <img src="" width="200px">
+
+* Wayne Jarrett  
+Showcase Volume 1: Bubble Up  
+  <img src="" width="200px">
+
 * WINSTON EDWARDS & BLACKBEARD  
 Dub Conference At 10 Downing Street
 
 * V.A.  
 Ja son invasion  
 This is Jamaica ska  
-African roots act1  
-  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/African%20roots%20act1.jpg" width="200px">  
 Reggae goodies vol.1  
 Java
 
