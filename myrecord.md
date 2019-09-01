@@ -42,7 +42,7 @@ Time and place
 
 * Horace Andy  
 Dance Hall Style  
-  <img src="" width="200px">
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Dance%20Hall%20Style.jpg" width="200px">
 
 * Jackie Mittoo  
 Reggae magic!(1972)  
@@ -68,7 +68,7 @@ Authorized version
 
 * Love Joys  
 Lovers Rock Reggae Style: Love Joys Show Case (1982)  
-  <img src="" width="200px">
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Lovers%20Rock%20Reggae%20Style%20Love%20Joys%20Show%20Case%20(1982).jpg" width="200px">
 
 * Matumbi  
 the best of Matumbi
@@ -91,7 +91,7 @@ Best of Roland Alphonso
 
 * Roots Underground  
 Tribesman Assault  
-  <img src="" width="200px">
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Tribesman%20Assault.jpg" width="200px">
 
 * Skatalites  
 Skatalites & friends at Randy’s  
@@ -125,13 +125,13 @@ Crucial cuts
 African roots act1  
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/African%20roots%20act1.jpg" width="200px">  
 African Roots Act 3  
-  <img src="" width="200px">  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/African%20Roots%20Act%203.jpg" width="200px">  
 Creation Dub  
-  <img src="" width="200px">
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Creation%20Dub.jpg" width="200px">
 
 * Wayne Jarrett  
 Showcase Volume 1: Bubble Up  
-  <img src="" width="200px">
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Showcase%20Volume%201%20Bubble%20Up.jpg" width="200px">
 
 * WINSTON EDWARDS & BLACKBEARD  
 Dub Conference At 10 Downing Street
