@@ -9,25 +9,30 @@
 
 * Al campbell  
 The Al campbell collection  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/The%20Al%20campbell%20collection.jpg" width="200px">
 
 * Alton ellis  
 The best of Alton ellis  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/The%20best%20of%20Alton%20ellis.jpg" width="200px">
 
 * Alpha & Omega  
 Trample the eagle and the doragon and the bear  
 
 * Augustus Pablo  
 Raggamuffin dub  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Raggamuffin%20dub.jpg" width="200px">  
 Eastman dub(2018)  
 Blowing with the wind
 
 * Black slate  
-Ogima
+Ogima  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Ogima.jpg" width="200px">
 
 * Bunny Wailer  
 
 * Don Drummond  
-the best of Don Drummond
+the best of Don Drummond  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/the%20best%20of%20Don%20Drummond.jpg" width="200px">
 
 * Gladstone anderson and the Mudies all stars  
 glady unlimited
@@ -37,6 +42,7 @@ Time and place
 
 * Jackie Mittoo  
 Reggae magic!(1972)  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Reggae%20magic!.jpg" width="200px">  
 Keyboard king  
 Evening time(1967)  
 Money marker  
@@ -51,6 +57,7 @@ The keyboard king at studio one
 
 * Jonnie clarke  
 Dread natty congo  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Dread%20natty%20congo.jpg" width="200px">  
 Authorized version
 
 * Lee "Scratch" Perry  
@@ -62,25 +69,31 @@ the best of Matumbi
 Reminiscence
 
 * Ojah  
-On my mind
+On my mind  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/On%20my%20mind.jpg" width="200px">
 
 * Rico & the rudies  
-blow your horn
+blow your horn  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/blow%20your%20horn.jpg" width="200px">
 
 * Roland Alphonso  
 ABC rocksteady  
-Best of Roland Alphonso
+Best of Roland Alphonso  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Best%20of%20Roland%20Alphonso.jpg" width="200px">
 
 * Skatalites  
 Skatalites & friends at Randy’s  
-Ska authentic
+Ska authentic  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Ska%20authentic.jpg" width="200px">
 
 * Third world  
 Journey to Addis  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Journey%20to%20Addis.jpg" width="200px">
 
 * Tommy Mccoom & The Agrovators  
 King tubby meets the agrovators at dub station  
-Super star
+Super star  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/Super%20star.jpg" width="200px">  
 Cookin'
 
 * Tommy Mccoom & the super sonic  
@@ -91,7 +104,7 @@ Tommy Mccoom
 
 * Trojans  
 SAVE THE WORLD  
-  <img src="" width="200px">
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/SAVE%20THE%20WORLD.jpg" width="200px">
 
 * U ROY  
 Crucial cuts
@@ -103,6 +116,7 @@ Dub Conference At 10 Downing Street
 Ja son invasion  
 This is Jamaica ska  
 African roots act1  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/African%20roots%20act1.jpg" width="200px">  
 Reggae goodies vol.1  
 Java
 
