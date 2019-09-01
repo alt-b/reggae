@@ -43,7 +43,9 @@ Money marker
 Now  
 Show case volume3  
 In cold  blood  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/In%20Cold%20Blood.jpg" width="200px">  
 Hot blood  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/record/HOT%20BLOOD.jpg" width="200px">  
 In london  
 The keyboard king at studio one  
 
@@ -86,6 +88,10 @@ Top secret
 
 * Tommy Mccoom  
 Tommy Mccoom
+
+* Trojans  
+SAVE THE WORLD  
+  <img src="" width="200px">
 
 * U ROY  
 Crucial cuts
@@ -137,7 +143,9 @@ New Chapter Of Dub
 
 * Black Uhuru  
 Red  
-Sinsemilla
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Red.jpg" width="200px">  
+Sinsemilla  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Sinsemilla.jpg" width="200px">
 
 * Bob Marley & The Wailers  
 Burnin'  
@@ -145,7 +153,8 @@ Burnin'
 Catch A Fire  
 Exodus  
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Exodus.jpg" width="200px">  
-Live!
+Live!  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Live!.jpg" width="200px">
 
 * Bunny Wailer  
 Blackheart Man  
@@ -158,17 +167,22 @@ Dry & Heavy + Man In The Hills
 
 * Creation Rebel  
 Rebel Vibrations  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Rebel%20Vibrations.jpg" width="200px">  
 Starship Africa  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Starship%20Africa.jpg" width="200px">
 
 * Congos  
 Heart Of The Congos
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Heart%20Of%20The%20Congos.jpg" width="200px">
 
 * Cornell Campbell  
-Sweet Dancehall Collection
+Sweet Dancehall Collection  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Sweet%20Dancehall%20Collection.jpg" width="200px">
 
 * Dennis Bovell  
 I Wah Dub  
-The British Core Lovers
+The British Core Lovers  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/The%20British%20Core%20Lovers.jpg" width="200px">
 
 * DETERMINATIONS  
 Rock A Shacka Vol.1 -Prince Buster With Determinations Live In Japan
@@ -181,10 +195,12 @@ FULL CONTACT
 Proverbial Reggae
 
 * Gregory Isaacs  
-Soon Forward
+Soon Forward  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Soon%20Forward.jpg" width="200px">
 
 * Heptones  
-Nightfood Ina Party Time
+Nightfood Ina Party Time  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Nightfood%20Ina%20Party%20Time.jpg" width="200px">
 
 * Icebreakers With The Diamonds  
 Planet Mars In Dub
@@ -197,7 +213,8 @@ Drum Song
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Drum%20Song.jpg" width="200px">
 
 * Jah Shaka  
-In the Ghetto
+In the Ghetto  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/In%20the%20Ghetto.jpg" width="200px">
 
 * Jimmy Cliff  
 Best Of Jimmy Cliff  
@@ -205,12 +222,13 @@ Best Of Jimmy Cliff
 
 * Joe Gibbs & The Professionals  
 State Of Emergency  
-  <img src="" width="200px">  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/State%20Of%20Emergency.jpg" width="200px">  
 African Dub All-Mighty Chapter 4  
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/African%20Dub%20All-Mighty%20Chapter%204.jpg" width="200px">
 
 * Johnny Clarke  
-Roots Music
+Roots Music  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Roots%20Music.jpg" width="200px">
 
 * Kiddus I  
 Kiddus I Meets Reggaelation Independance
@@ -222,20 +240,24 @@ King Tubby On The Mix Vol. Two
 Cutting Razor: Rare Cuts From the Black Ark
 
 * Lee "Scratch" Perry & The Upsetters  
-Super Ape
+Super Ape  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Super%20Ape.jpg" width="200px">
 
 * Little Tempo  
 Kedaco Sounds  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Kedaco%20Sounds.jpg" width="200px">
 
 * Love Joys  
-Reggae Vibes
+Reggae Vibes  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Reggae%20Vibes.jpg" width="200px">
 
 * Mad Professor  
 Dub Me Crazy!!  
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Dub%20Me%20Crazy!!.jpg" width="200px">
 
 * Max Romeo  
-War Ina Babylon/Reconstruction
+War Ina Babylon/Reconstruction  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/War%20Ina%20Babylon.jpg" width="200px">
 
 * Mighty Diamonds  
 Deeper Roots (Back At The Channel)  
@@ -243,21 +265,23 @@ Deeper Roots (Back At The Channel)
 
 * Mute Beat  
 Lover's Rock  
-  <img src="" width="200px">  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Lover's%20Rock.jpg" width="200px">  
 Still Echo  
 LIVE【Remastered】  
-  <img src="" width="200px">  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/LIVE%E3%80%90Remastered%E3%80%91.jpg" width="200px">  
 Dub Wise  
 March  
-  <img src="" width="200px">  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/March.jpg" width="200px">  
 Flower  
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Flower.jpg" width="200px">
 
 * Peter Tosh  
-Legalize It
+Legalize It  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Legalize%20It%20%5BDisc%202%5D.jpg" width="200px">
 
 * Phyllis Dillon  
 One Life To Live  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/One%20Life%20To%20Live.jpg" width="200px">
 
 * Prince Douglas  
 Dub Roots  
@@ -271,7 +295,8 @@ Man From Wareika [Bonus Tracks]
 Scientist Rids The World Of The Evil Curse Of The Vampires
 
 * Sherwood & Pinch  
-Late Night Endless
+Late Night Endless  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Late%20Night%20Endless%20%5BBonus%20Track%5D.jpg" width="200px">
 
 * Singers & Players  
 Staggering Heights  
@@ -306,7 +331,8 @@ Alternative Routes
 * U ROY  
 Jah Son Of Africa  
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Dread%20In%20A%20Babylon.jpg" width="200px">  
-Dread In A Babylon
+Dread In A Babylon  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Jah%20Son%20Of%20Africa.jpg" width="200px">
 
 * Zion Train  
 Zion Train: Siren
