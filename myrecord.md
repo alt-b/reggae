@@ -114,12 +114,11 @@ Arise [Reissue]
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Arise%20%5BReissue%5D.jpg" width="200px">
 
 * African Head Charge  
-Vision Of A Psychedelic Africa [Bonus Track]  
-  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Sound%20System%20Dub.jpg" width="200px">
+Vision Of A Psychedelic Africa [Bonus Track]
 
 * Alpha & Omega  
 Sound System Dub  
-  <img src="" width="200px">
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Sound%20System%20Dub.jpg" width="200px">
 
 * Althea & Donna  
 Uptown Top Ranking  
@@ -172,7 +171,7 @@ Starship Africa
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Starship%20Africa.jpg" width="200px">
 
 * Congos  
-Heart Of The Congos
+Heart Of The Congos  
   <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Heart%20Of%20The%20Congos.jpg" width="200px">
 
 * Cornell Campbell  
