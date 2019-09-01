@@ -107,6 +107,9 @@ Java
 ### CD一覧
 アーティスト順
 
+* Abyssinians  
+Arise [Reissue]
+
 * African Head Charge  
 Vision Of A Psychedelic Africa [Bonus Track]
 
@@ -115,6 +118,12 @@ Sound System Dub
 
 * Althea & Donna  
 Uptown Top Ranking  
+
+* Alton Ellis  
+I'm Still In Love With You; Featuring Hortense Ellis
+
+* Alton Ellis With Dreamlets & Naoyuki Uchida  
+Lovely Place
 
 * audio active  
 Back To The Stoned Age
@@ -127,7 +136,8 @@ East Of The River Nile
 New Chapter Of Dub
 
 * Black Uhuru  
-Red
+Red  
+Sinsemilla
 
 * Bob Marley & The Wailers  
 Burnin'  
@@ -146,6 +156,9 @@ Dry & Heavy + Man In The Hills
 Rebel Vibrations  
 Starship Africa  
 
+* Congos  
+Heart Of The Congos
+
 * Cornell Campbell  
 Sweet Dancehall Collection
 
@@ -159,8 +172,20 @@ Rock A Shacka Vol.1 -Prince Buster With Determinations Live In Japan
 * Dry & Heavy  
 FULL CONTACT  
 
+* Gladiators  
+Proverbial Reggae
+
 * Gregory Isaacs  
 Soon Forward
+
+* Heptones  
+Nightfood Ina Party Time
+
+* Icebreakers With The Diamonds  
+Planet Mars In Dub
+
+* Inner Circle  
+Ready For The World
 
 * Jackie Mittoo  
 Drum Song
@@ -175,11 +200,20 @@ Best Of Jimmy Cliff
 State Of Emergency  
 African Dub All-Mighty Chapter 4
 
+* Johnny Clarke  
+Roots Music
+
 * Kiddus I  
 Kiddus I Meets Reggaelation Independance
 
+* King Tubby  
+King Tubby On The Mix Vol. Two
+
 * Lee "Scratch" Perry  
 Cutting Razor: Rare Cuts From the Black Ark
+
+* Lee "Scratch" Perry & The Upsetters  
+Super Ape
 
 * Little Tempo  
 Kedaco Sounds  
@@ -190,12 +224,19 @@ Reggae Vibes
 * Mad Professor  
 Dub Me Crazy!!
 
+* Max Romeo  
+War Ina Babylon/Reconstruction
+
+* Mighty Diamonds  
+Deeper Roots (Back At The Channel)
+
 * Mute Beat
 Lover's Rock   
 Still Echo  
 LIVE【Remastered】  
 Dub Wise  
-March
+March  
+Flower
 
 * Peter Tosh  
 Legalize It
@@ -208,6 +249,7 @@ Dub Roots
 
 * Rico Rodigues
 Warrika Dub  
+Man From Wareika [Bonus Tracks]
 
 * Scientist  
 Scientist Rids The World Of The Evil Curse Of The Vampires
@@ -226,6 +268,10 @@ Love Comes Love Goes
 * Ska Flames  
 Wail'n Skal'm
 
+* Skatalites  
+Hip-Bop Ska  
+The Authentic Sound of Tommy Mccook  
+
 * Steel Pulse  
 Handsworth Revolution
 
@@ -240,10 +286,6 @@ You've Got The Power
 Captain Ganja And The Space Patrol +1  
 Alternative Routes
 
-* The Skatalites  
-Hip-Bop Ska  
-The Authentic Sound of Tommy Mccook  
-
 * U ROY  
 Jah Son Of Africa  
 Dread In A Babylon
@@ -256,3 +298,6 @@ DC Dub Connection
 Countryman  
 Relaxin' With Lovers Volume 3 / Studio 16 Lovers Rock Collections  
 RELAXIN' WITH JAPANESE LOVERS VOLUME 6 ～WE LOVE JAPANESE LOVERS MORE THAN EVER COLLECTIONS～
+
+* こだま和文  
+Quiet Reggae
