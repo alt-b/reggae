@@ -8,13 +8,16 @@
 アーティスト順
 
 * Al campbell  
-The Al campbell collection
+The Al campbell collection  
+  <img src="" width="200px">
 
 * Alton ellis  
-The best of Alton ellis
+The best of Alton ellis  
+  <img src="" width="200px">
 
 * Alpha & Omega  
 Trample the eagle and the doragon and the bear  
+  <img src="" width="200px">
 
 * Augustus Pablo  
 Raggamuffin dub  
@@ -111,10 +114,12 @@ Java
 Arise [Reissue]
 
 * African Head Charge  
-Vision Of A Psychedelic Africa [Bonus Track]
+Vision Of A Psychedelic Africa [Bonus Track]  
+  <img src="https://github.com/alt-b/reggae/blob/master/artwork/cd/Sound%20System%20Dub.jpg" width="200px">
 
 * Alpha & Omega  
-Sound System Dub
+Sound System Dub  
+  <img src="" width="200px">
 
 * Althea & Donna  
 Uptown Top Ranking  
